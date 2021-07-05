@@ -1,1 +1,1 @@
-"# classification-MNIST" 
+Machine Learning classification system using MNIST dataset.
