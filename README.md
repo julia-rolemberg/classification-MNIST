@@ -4,3 +4,5 @@ So far I've got:
 - Classification system using MNIST dataset
 - Spam Classifier
 - Regression models
+- Gradient Descent
+- Support Vector Machines
