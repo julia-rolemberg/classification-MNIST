@@ -6,3 +6,5 @@ So far I've got:
 - Regression models
 - Gradient Descent
 - Support Vector Machines
+- Decision Trees, Random Forests
+- Ensemble Learning
