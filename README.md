@@ -8,3 +8,5 @@ So far I've got:
 - Support Vector Machines
 - Decision Trees, Random Forests
 - Ensemble Learning
+- Dimensionality Reduction
+- Clustering
