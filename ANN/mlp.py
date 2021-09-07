@@ -72,18 +72,3 @@ print(f'\nclass_names[y_train[0] --> {class_names[y_train[0]]}\n')
 # save_fig('fashion_mnist_plot', tight_layout=False)
 # plt.show()
 
-
-# Creating a model using Sequential API (NEURAL NETWORK)
-# model = keras.models.Sequential() #simplest kinf of neural net in Keras; one stack of layers connected sequentially
-# model.add(keras.layers.Flatten(input_shape=[28, 28])) # convert each input image into a 1D array
-# model.add(keras.layers.Dense(300, activation="relu"))
-# model.add(keras.layers.Dense(100, activation="relu"))
-# model.add(keras.layers.Dense(10, activation="softmax"))
-
-# ### or ####
-# model = keras.models.Sequential([
-#     keras.layers.Flatten(input_shape=[28, 28]),
-#     keras.layers.Dense(300, activation="relu"),
-#     keras.layers.Dense(100, activation="relu"),
-#     keras.layers.Dense(10, activation="softmax")
-# ])

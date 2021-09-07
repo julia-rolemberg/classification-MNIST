@@ -10,3 +10,4 @@ So far I've got:
 - Ensemble Learning
 - Dimensionality Reduction
 - Clustering
+- Artificial Neural Networks
